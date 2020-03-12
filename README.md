@@ -114,8 +114,8 @@ _______
 > \[2\]: https://www.baidu.com/  
 
 效果：
-> [参考一][1]    
-> [参考二][2]
+> [参考一][1]: 我是百度
+> [参考二][2]: 我还是百度
 
 [1]: https://www.baidu.com/
 [2]: https://www.baidu.com/
