@@ -90,42 +90,42 @@ void main()
 > 3. 第三项
 
 # 7 分割线
-分割线最常使用就是三个或以上`*`，还可以使用`-`和`_`。
+分割线最常使用就是三个或以上`*`，还可以使用`_`。
 分割分割
 ********
 继续分割
--------
-使劲分割
 _______
 完毕
 
 # 8 链接
 链接可以由两种形式生成：**行内式**和**参考式**。    
 **行内式**：
-> \[链接\]\(https://baike.baidu.com/item/markdown/3245829?fr=aladdin\)。
+> \[链接\]\(https://baike.baidu.com/item/markdown/3245829?fr=aladdin)。
 
 效果：
+> 我在自说自话
 > [链接](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)
+> 说完了
 
-
-**参考式**：
+**参考式**(这种形式类似论文的参考文献)：
 > \[younghz的Markdown库1\]\[1\]    
 > \[younghz的Markdown库2\]\[2\]    
 > \[1\]:https:://github.com/younghz/Markdown "Markdown"    
 > \[2\]:https:://github.com/younghz/Markdown "Markdown"    
 
 效果：
-> [younghz的Markdown库1][1]    
-> [younghz的Markdown库2][2]
+> [参考一][1]    
+> [参考二][2]
 
-[1]: https:://github.com/younghz/Markdown "Markdown"
-[2]: https:://github.com/younghz/Markdown "Markdown"
+[1]: https://www.baidu.com/
+[2]: https://www.baidu.com/
 
-**注意**：上述的`[1]:https:://github.com/younghz/Markdown "Markdown"`不出现在区块中。
+**注意**：上述的`[2]: https://www.baidu.com/`不显示出来。
 
 # 9 图片
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
-![git仓库图片展示](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
+![仓库图片](https://github.com/younghz/Markdown/raw/master/resource/AaronSwartz.jpg)
+![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
 # 10 反斜杠`\`
 相当于**反转义**作用。使符号成为普通符号。
