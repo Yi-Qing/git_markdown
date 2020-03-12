@@ -125,6 +125,10 @@ _______
 # 9 图片
 添加图片的形式和链接相似, 只需在链接的基础上前方加一个`！`.
 ![仓库图片](https://github.com/Yi-Qing/git_markdown/blob/learn/resource/AaronSwartz.jpg)
+
+*****
+**Tips:**使用仓库中的图片时大致格式\/http://github.com/yourname/Repositoryname/blob/branch/path/filename
+******
 ![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
 # 10 反斜杠`\`
