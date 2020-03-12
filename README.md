@@ -108,8 +108,8 @@ _______
 > 说完了
 
 **参考式**(这种形式类似论文的参考文献)：
-> \[younghz的Markdown库1\]\[1\]: 我是百度
-> \[younghz的Markdown库2\]\[2\]: 我还是百度
+> \[younghz的Markdown库1\]\[1\]: 我是百度  
+> \[younghz的Markdown库2\]\[2\]: 我还是百度  
 > \[1\]: https://www.baidu.com/  
 > \[2\]: https://www.baidu.com/  
 
@@ -120,11 +120,11 @@ _______
 [1]: https://www.baidu.com/
 [2]: https://www.baidu.com/
 
-**注意**：上述的`[2]: https://www.baidu.com/`不显示出来.
+**注意**：上述的`[1]: https://www.baidu.com/`不显示出来.
 
 # 9 图片
 添加图片的形式和链接相似, 只需在链接的基础上前方加一个`！`.
-![仓库图片](https://github.com/younghz/Markdown/raw/master/resource/AaronSwartz.jpg)
+![仓库图片](https://github.com/Yi-Qing/git_markdown/blob/learn/resource/AaronSwartz.jpg)
 ![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
 # 10 反斜杠`\`
@@ -137,12 +137,17 @@ _______
 >`ctrl+a`    
 
 ### 12 列表：
-用`|`表示表格纵向边界, 表头和表内容用`-`隔开, 并可用`:`进行对齐设置, 两边都有`:`则表示居中, 若不加`:`则默认居中对齐.
+用`|`表示表格纵向边界, 表头和表内容用`-`隔开, 并可用`:`进行对齐设置, 两边都有`:`则表示居中, 若不加`:`则默认居中对齐.(貌似在github中无效)
 
 | 左对齐 | 居中 | 右对齐 | 默认 |
 |:-------|:----:|-------:|------|
 | 左对齐 | 居中 | 右对齐 | 默认 |
 | 左对齐 | 居中 | 右对齐 | 默认 |
+
+| 居中 | 居中 | 居中 | 默认 |
+|------|------|------|------|
+| 居中 | 居中 | 居中 | 默认 |
+| 居中 | 居中 | 居中 | 默认 |
 
 ******
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同, 具体可参见工具的使用说明.
