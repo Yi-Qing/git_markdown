@@ -108,10 +108,10 @@ _______
 > 说完了
 
 **参考式**(这种形式类似论文的参考文献)：
-> \[younghz的Markdown库1\]\[1\]    
-> \[younghz的Markdown库2\]\[2\]    
-> \[1\]:https:://github.com/younghz/Markdown "Markdown"    
-> \[2\]:https:://github.com/younghz/Markdown "Markdown"    
+> \[younghz的Markdown库1\]\[1\]: 我是百度
+> \[younghz的Markdown库2\]\[2\]: 我还是百度
+> \[1\]: https://www.baidu.com/  
+> \[2\]: https://www.baidu.com/  
 
 效果：
 > [参考一][1]    
@@ -124,7 +124,7 @@ _______
 
 # 9 图片
 添加图片的形式和链接相似, 只需在链接的基础上前方加一个`！`.
-`![仓库图片](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)`
+![仓库图片](https://github.com/younghz/Markdown/raw/master/resource/AaronSwartz.jpg)
 ![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
 # 10 反斜杠`\`
