@@ -127,7 +127,7 @@ _______
 ![仓库图片](https://github.com/Yi-Qing/git_markdown/blob/learn/resource/AaronSwartz.jpg)
 
 *****
-**Tips:**使用仓库中的图片时大致格式\/http://github.com/yourname/Repositoryname/blob/branch/path/filename
+> **Tips:**使用仓库中的图片时大致格式http://github.com/yourname/Repositoryname/blob/branch/path/filename
 ******
 ![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
