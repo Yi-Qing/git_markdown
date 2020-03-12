@@ -67,6 +67,7 @@ void main()
 效果：
 > *斜体*, _斜体_    
 > **粗体**, __粗体__
+> **Tops**
 
 # 6 列表
 使用`+`、或`-`标记无序列表, 如：
@@ -126,7 +127,7 @@ _______
 添加图片的形式和链接相似, 只需在链接的基础上前方加一个`！`.
 ![仓库图片](https://github.com/Yi-Qing/git_markdown/blob/learn/resource/AaronSwartz.jpg)
 
-> __Tips__使用仓库中的图片时大致格式http://github.com/yourname/Repositoryname/blob/branch/path/filename
+> __Tips__ 使用仓库中的图片时大致格式http://github.com/yourname/Repositoryname/blob/branch/path/filename
 
 ![网络图片](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4022253116,4028438106&fm=26&gp=0.jpg)
 
