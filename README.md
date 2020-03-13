@@ -158,7 +158,11 @@ _______
 | 居中 | 居中 | 居中 | 默认 |
 | 居中 | 居中 | 居中 | 默认 |
 
+# 13 缩进:
+详细可以参考网页: [markdown空格缩进以及HTML实体空格](https://www.jianshu.com/p/31eade263e7a)
+
 ******
+
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同, 具体可参见工具的使用说明.
 虽然有人想出面搞一个所谓的标准化的Markdown, [没想到还惹怒了健在的创始人John Gruber](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown).
 以上基本是所有traditonal markdown的语法.
