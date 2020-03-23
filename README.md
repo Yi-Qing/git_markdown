@@ -167,6 +167,9 @@ _______
 &ensp;&ensp;使用两个ensp.  
 没有使用空格
 
+# 14 目录跳转
+[跳转到缩进]:# 13 缩进
+
 详细可以参考网页: [markdown空格缩进以及HTML实体空格](https://www.jianshu.com/p/31eade263e7a)
 
 ******
