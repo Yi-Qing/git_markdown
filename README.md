@@ -28,11 +28,11 @@
 > ##### 五级标题   
 > ###### 六级标题
 
-# 2 段落与换行
+# 段落与换行
 段落的前后要有空行, 所谓的空行是指没有文字内容. 若想在段内强制换行的方式是使用`两个以上`空格加上回车(引用中换行省略回车), 
 	或者使用`<br>`然后回车也可以
 
-# 3 区块引用
+# 区块引用
 在段落的每行或者只在第一行使用符号`>`,还可使用多个嵌套引用, 如：
 > \> 区块引用  
 > \>> 嵌套引用  
@@ -132,6 +132,7 @@ _______
 # 9 图片
 添加图片的形式和链接相似, 只需在链接的基础上前方加一个`！`.
 ![仓库图片](https://github.com/Yi-Qing/git_markdown/blob/learn/resource/AaronSwartz.jpg)
+![相对路径仓库图片](resource/AaronSwartz.jpg)
 
 > __Tips__ 使用仓库中的图片时大致格式http://github.com/yourname/Repositoryname/blob/branch/path/filename
 
